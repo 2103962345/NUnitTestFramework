@@ -1,0 +1,16 @@
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/Test/NunitTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/Test/NunitTest/bin/Debug/NunitTest.dll.mdb
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/Test/NunitTest/bin/Debug/NunitTest.dll
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/Test/NunitTest/obj/Debug/NunitTest.dll
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/Test/NunitTest/obj/Debug/NunitTest.dll.mdb
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/Test/NunitTest/bin/Debug/nunit.framework.dll
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/Test/NunitTest/bin/Debug/Test.exe
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/Test/NunitTest/bin/Debug/Test.exe.mdb
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/NUnitTestFramework/NunitTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/NUnitTestFramework/NunitTest/bin/Debug/NunitTest.dll.mdb
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/NUnitTestFramework/NunitTest/bin/Debug/NunitTest.dll
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/NUnitTestFramework/NunitTest/obj/Debug/NunitTest.dll
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/NUnitTestFramework/NunitTest/obj/Debug/NunitTest.dll.mdb
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/NUnitTestFramework/NunitTest/bin/Debug/nunit.framework.dll
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/NUnitTestFramework/NunitTest/bin/Debug/Test.exe
+/home/shreeganesh/Documents/CSharp/dotnetCsharp/NUnitTestFramework/NunitTest/bin/Debug/Test.exe.mdb

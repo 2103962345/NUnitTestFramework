@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{4F4CF76D-DEA0-4668-A654-5F3B519BBA31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTest", "NunitTest\NunitTest.csproj", "{2C9CA0E0-5FBB-4325-A288-DF9BBA20BCBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9CA0E0-5FBB-4325-A288-DF9BBA20BCBD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2C9CA0E0-5FBB-4325-A288-DF9BBA20BCBD}.Debug|x86.Build.0 = Debug|Any CPU
+		{2C9CA0E0-5FBB-4325-A288-DF9BBA20BCBD}.Release|x86.ActiveCfg = Release|Any CPU
+		{2C9CA0E0-5FBB-4325-A288-DF9BBA20BCBD}.Release|x86.Build.0 = Release|Any CPU
+		{4F4CF76D-DEA0-4668-A654-5F3B519BBA31}.Debug|x86.ActiveCfg = Debug|x86
+		{4F4CF76D-DEA0-4668-A654-5F3B519BBA31}.Debug|x86.Build.0 = Debug|x86
+		{4F4CF76D-DEA0-4668-A654-5F3B519BBA31}.Release|x86.ActiveCfg = Release|x86
+		{4F4CF76D-DEA0-4668-A654-5F3B519BBA31}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
