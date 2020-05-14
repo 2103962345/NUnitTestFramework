@@ -27,7 +27,7 @@ REM (optional) build.bat is in the root of our repo, cd to the correct folder wh
 
 
 echo Restore
-call "C:\temp\nuget.exe" restore NUnitTestFramework.sln
+call %nuget% restore NUnitTestFramework.sln
 if not "%errorlevel%"=="0" goto failure
 
 echo Build
@@ -36,14 +36,14 @@ if not "%errorlevel%"=="0" goto failure
 
 cd NUnitTest
 echo Unit tests
-call "C:\temp\nuget.exe" install NUnit.ConsoleRunner -Version 3.11.1 -OutputDirectory packages 
+call %nuget% install NUnit.ConsoleRunner -Version 3.11.1 -OutputDirectory packages 
 packages\NUnit.ConsoleRunner.3.11.1\tools\nunit3-console.exe bin\%config%\NUnitTest.dll
 
 cd ..
 
 echo Pack
 mkdir Build
-call "C:\temp\nuget.exe" pack "Test\Test.csproj" -Symbols -OutputDirectory Build -Properties Configuration=%config%;version="%version%"
+call %nuget% pack "Test\Test.csproj" -Symbols -OutputDirectory Build -Properties Configuration=%config%;version="%version%"
 if not "%errorlevel%"=="0" goto failure
 
 :success
